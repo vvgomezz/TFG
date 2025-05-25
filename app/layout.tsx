@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "GameStore España - Tu tienda de videojuegos favorita",
+  title: "VictorStore España - Tu tienda de videojuegos favorita",
   description:
     "Descubre los mejores videojuegos con nuestro sistema de puntos de recompensa. Compra, juega y gana puntos.",
     generator: 'v0.dev'

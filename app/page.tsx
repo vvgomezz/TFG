@@ -191,7 +191,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
-              <h1 className="text-2xl font-bold text-white">🎮 GameStore España</h1>
+              <h1 className="text-2xl font-bold text-white">🎮 VictorStore España</h1>
             </div>
 
             <div className="flex items-center space-x-4">
